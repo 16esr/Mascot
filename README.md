@@ -1,0 +1,2 @@
+# Mascot
+The Octocat Mascot
